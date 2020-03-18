@@ -19,12 +19,4 @@ make
 ./ftlang < test.ft
 
 
-# To run lex exl.l
-
-    lex exl.l
-    cc lex.yy.c -ll
-    ./a.out
-    --> number
-    --> 9
-
 
