@@ -1,7 +1,7 @@
 ## Programming Language Project Lex Part
 
-Group Members:  Fatma Erkan - 20150807029
-                Tuğba Güler - 20150807012
+Group Members:  Fatma Erkan, 
+                Tuğba Güler
                 
 Our programming language name is FT with extension .ft.
 
